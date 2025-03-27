@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dennes Njoroge
-- 👀 I’m a software engineer, lets work together and make life easy
+- 👀 I’m a software developer, lets work together and make life easy
 
 <!---
 dennesnjoroge/dennesnjoroge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
